@@ -1,4 +1,4 @@
-package com.topxingda.system.domain;
+package com.topxingda.framework.web.domain;
 
 import lombok.Data;
 

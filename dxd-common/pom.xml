@@ -16,10 +16,10 @@
 
     <dependencies>
 
-        <!-- 自定义验证注解 -->
+        <!--fast json-->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-validation</artifactId>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
         </dependency>
 
         <!-- commons jar包 -->
